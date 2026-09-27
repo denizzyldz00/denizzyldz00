@@ -11,7 +11,7 @@ Claude Code ile ürünleri fikirden yayına kadar götürüyorum: ihtiyacı netl
 ### 🚀 Öne çıkan projeler
 
 #### 📱 Sayılı Günler — Düğün planlama mobil uygulaması (Android + iOS)
-🌐 [sayiligunler.com](https://sayiligunler.com) · 🔒 Kod özel depoda; mülakatta ekran paylaşımıyla gösterilebilir
+🌐 [sayiligunler.com](https://sayiligunler.com) · 🔒
 
 - 6 aşamalı, 435 hazır kalemli planlayıcı; randevu hatırlatmaları, misafir takibi, sürükle-bırak masa düzeni, bütçe
 - Çevrimdışı öncelikli mimari (SQLite / Drift, sürümlü şema göçleri)
@@ -23,7 +23,7 @@ Claude Code ile ürünleri fikirden yayına kadar götürüyorum: ihtiyacı netl
 `Flutter` `Dart` `SQLite` `Firebase` `AdMob` `In-App Purchase` `Codemagic`
 
 #### 💳 NFC IBAN ve Dijital Kartvizit Sistemi — Web uygulaması + yönetim paneli
-🌐 [Canlı demo](https://nfc-iban-sistemi.birdokun.workers.dev) · 🔒 Kod özel depoda; mülakatta ekran paylaşımıyla gösterilebilir
+🌐 [Canlı demo](https://nfc-iban-sistemi.birdokun.workers.dev) · 🔒 
 
 - NFC kart veya QR ile işletmenin IBAN sayfasını / kişinin dijital kartvizitini açan mobil uyumlu web uygulaması
 - Yönetim paneli: CRUD, IBAN doğrulama, QR üretimi, Web NFC ile karta yazma, PDF/CSV çıktısı
