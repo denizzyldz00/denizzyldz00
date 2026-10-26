@@ -1,6 +1,6 @@
 ## Merhaba, ben Deniz Yıldız 👋
 
-**Yazılım Mühendisi (Yeni Mezun, MCBÜ 2026)** — Yapay zekâ destekli web ve mobil uygulama geliştirme
+**Yazılım Mühendisi (MCBÜ 2026)** — Yapay zekâ destekli web ve mobil uygulama geliştirme
 
 Claude Code ile ürünleri fikirden yayına kadar götürüyorum: ihtiyacı netleştiriyorum, işi adımlara bölüyorum, yapay zekâ ajanına doğru bağlamı veriyorum, üretilen kodu okuyup test ederek doğruluyorum ve çalışan bir ürüne dönüştürüyorum.
 
